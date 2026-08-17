@@ -89,8 +89,10 @@ ngram_range = (1, 2)
 min_df = 2
 sublinear_tf = True
 ```
-
 ## Demo
-![Sentiment Analysis Negative Demo] (screenshots/negative_review.png)
-![Sentiment Analysis Neutral Demo] (screenshots/neutral_review.png)
-![Sentiment Analysis Positive Demo] (screenshots/positive_review.png)
+
+![Sentiment Analysis Negative Demo](screenshots/negative_review.png)
+
+![Sentiment Analysis Neutral Demo](screenshots/neutral_review.png)
+
+![Sentiment Analysis Positive Demo](screenshots/positive_review.png)
